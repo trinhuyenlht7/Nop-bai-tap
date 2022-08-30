@@ -1,0 +1,27 @@
+.top .img_top{
+    max-width: 100%;
+    height: auto;
+}
+.top {
+    width: auto;
+    min-height: 1000px;
+    background: url("./img/Rectangle9.png"); 
+    background-size:cover;
+    background-repeat: no-repeat ;
+}
+
+.danh_sach{
+    color: aliceblue;
+    margin-left: 20px;
+    
+}
+
+.icon{
+    margin-left: 20px;
+}
+
+
+.menu {
+    list-style-type: none;
+    display:flex;
+}
